@@ -2,11 +2,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn--000?style=social&logo=Linkedin&logoColor=0077B5&link=https://www.linkedin.com/in/ericluciano87/)](https://www.linkedin.com/in/ericluciano87/)
 [![Outlook Badge](https://img.shields.io/badge/email--000?style=social&logo=microsoft-outlook&logoColor=0078d4&link=mailto:ericluciano.rj@gmail.com)](mailto:ericluciano.rj@gmail.com)
 
-### Hello World, sou Eric! 👋
-
-Sou formado em Redes de Computadores pela Estácio de Sá, tenho amplo conhecimento e experiência com HTML5, CSS3, Javascript,Typescript, PHP, Laravel, Phalcon, MySQL, Git, Svelte, React, SASS, Stylus, Linux e Docker.
-
-Possuo 15 anos de experiência na área de TI como desenvolvedor atuando entre Back-End, Front-End e Servidores Linux.
+👋 Olá, sou Eric! Sou um desenvolvedor apaixonado com 15 anos de experiência em TI, atuando em Back-End, Front-End e servidores Linux. Graduado em Redes de Computadores pela Estácio de Sá, tenho um sólido conhecimento em HTML5, CSS3, JavaScript, TypeScript, PHP, Laravel, Phalcon, MySQL, Git, Svelte, React, SASS, Stylus, Linux e Docker. Estou sempre em busca de novos desafios e oportunidades para aprender e contribuir com projetos inovadores. Vamos nos conectar!
 
 <center>
 
