@@ -1,4 +1,4 @@
-## 👨‍💻 Eric Mariano | Desenvolvedor Full Stack
+## 👨‍💻 Eric Mariano | Full Stack Developer
 
 Desenvolvedor com experiência em TI, especializado em Back-End, Front-End e DevOps. Com formação em Redes de Computadores pela Estácio de Sá, tenho um forte domínio de tecnologias como JavaScript, TypeScript, React, Svelte, PHP (Laravel e Phalcon), MySQL, Docker e Linux. Possuo experiência em e-commerce, com foco na plataforma VTEX, onde crio soluções eficientes e inovadoras. Sempre buscando aprimorar minhas habilidades e enfrentar novos desafios, estou preparado para contribuir em projetos dinâmicos e impactantes.
 
