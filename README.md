@@ -11,5 +11,4 @@ Desenvolvedor com experiência em TI, especializado em Back-End, Front-End e Dev
 
 ## 📫 Entre em contato comigo:
 
-[![Github Badge](https://img.shields.io/badge/GitHub--000?style=social&logo=Github&logoColor=black&link=https://github.com/ericluciano)](https://github.com/ericluciano)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn--000?style=social&logo=Linkedin&logoColor=0077B5&link=https://www.linkedin.com/in/ericluciano87/)](https://www.linkedin.com/in/ericluciano87/)
